@@ -1,0 +1,994 @@
+[
+  {
+    "segmento": "aereas",
+    "ativo": "AZUL4"
+  },
+  {
+    "segmento": "aereas",
+    "ativo": "CVCB3"
+  },
+  {
+    "segmento": "aereas",
+    "ativo": "EMBR3"
+  },
+  {
+    "segmento": "aereas",
+    "ativo": "GOLL4"
+  },
+  {
+    "segmento": "aereas",
+    "ativo": "SMLS3"
+  },
+  {
+    "segmento": "agro",
+    "ativo": "AGRO3"
+  },
+  {
+    "segmento": "agro",
+    "ativo": "BEEF3"
+  },
+  {
+    "segmento": "agro",
+    "ativo": "BRFS3"
+  },
+  {
+    "segmento": "agro",
+    "ativo": "CAML3"
+  },
+  {
+    "segmento": "agro",
+    "ativo": "JBSS3"
+  },
+  {
+    "segmento": "agro",
+    "ativo": "MRFG3"
+  },
+  {
+    "segmento": "agro",
+    "ativo": "SLCE3"
+  },
+  {
+    "segmento": "agro",
+    "ativo": "SMTO3"
+  },
+  {
+    "segmento": "agro",
+    "ativo": "TESA3"
+  },
+  {
+    "segmento": "bancos",
+    "ativo": "ABCB4"
+  },
+  {
+    "segmento": "bancos",
+    "ativo": "BBAS3"
+  },
+  {
+    "segmento": "bancos",
+    "ativo": "BBDC4"
+  },
+  {
+    "segmento": "bancos",
+    "ativo": "BEES3"
+  },
+  {
+    "segmento": "bancos",
+    "ativo": "BMGB4"
+  },
+  {
+    "segmento": "bancos",
+    "ativo": "BRSR6"
+  },
+  {
+    "segmento": "bancos",
+    "ativo": "ITUB4"
+  },
+  {
+    "segmento": "bancos",
+    "ativo": "PINE4"
+  },
+  {
+    "segmento": "bancos",
+    "ativo": "SANB11"
+  },
+  {
+    "segmento": "bancos_tech",
+    "ativo": "BIDI11"
+  },
+  {
+    "segmento": "bancos_tech",
+    "ativo": "BPAC11"
+  },
+  {
+    "segmento": "bancos_tech",
+    "ativo": "BPAN4"
+  },
+  {
+    "segmento": "BDR",
+    "ativo": "AAPL34"
+  },
+  {
+    "segmento": "BDR",
+    "ativo": "ABTT34"
+  },
+  {
+    "segmento": "BDR",
+    "ativo": "AMZO34"
+  },
+  {
+    "segmento": "BDR",
+    "ativo": "BERK34"
+  },
+  {
+    "segmento": "BDR",
+    "ativo": "BKNG34"
+  },
+  {
+    "segmento": "BDR",
+    "ativo": "BLAK34"
+  },
+  {
+    "segmento": "BDR",
+    "ativo": "BOAC34"
+  },
+  {
+    "segmento": "BDR",
+    "ativo": "BONY34"
+  },
+  {
+    "segmento": "BDR",
+    "ativo": "CMCS34"
+  },
+  {
+    "segmento": "BDR",
+    "ativo": "COCA34"
+  },
+  {
+    "segmento": "BDR",
+    "ativo": "COWC34"
+  },
+  {
+    "segmento": "BDR",
+    "ativo": "CTGP34"
+  },
+  {
+    "segmento": "BDR",
+    "ativo": "GOGL34"
+  },
+  {
+    "segmento": "BDR",
+    "ativo": "MCDC34"
+  },
+  {
+    "segmento": "BDR",
+    "ativo": "MSFT34"
+  },
+  {
+    "segmento": "BDR",
+    "ativo": "NFLX34"
+  },
+  {
+    "segmento": "BDR",
+    "ativo": "TMCO34"
+  },
+  {
+    "segmento": "BDR",
+    "ativo": "TSLA34"
+  },
+  {
+    "segmento": "BDR",
+    "ativo": "U1BE34"
+  },
+  {
+    "segmento": "BDR",
+    "ativo": "VERZ34"
+  },
+  {
+    "segmento": "BDR",
+    "ativo": "VISA34"
+  },
+  {
+    "segmento": "BDR",
+    "ativo": "WALM34"
+  },
+  {
+    "segmento": "BDR",
+    "ativo": "WFCO34"
+  },
+  {
+    "segmento": "celulose",
+    "ativo": "KLBN11"
+  },
+  {
+    "segmento": "celulose",
+    "ativo": "RANI3"
+  },
+  {
+    "segmento": "celulose",
+    "ativo": "SUZB3"
+  },
+  {
+    "segmento": "comidas_bedidas_farmacia",
+    "ativo": "ABEV3"
+  },
+  {
+    "segmento": "comidas_bedidas_farmacia",
+    "ativo": "BKBR3"
+  },
+  {
+    "segmento": "comidas_bedidas_farmacia",
+    "ativo": "CRFB3"
+  },
+  {
+    "segmento": "comidas_bedidas_farmacia",
+    "ativo": "DMVF3"
+  },
+  {
+    "segmento": "comidas_bedidas_farmacia",
+    "ativo": "MDIA3"
+  },
+  {
+    "segmento": "comidas_bedidas_farmacia",
+    "ativo": "MEAL3"
+  },
+  {
+    "segmento": "comidas_bedidas_farmacia",
+    "ativo": "PGMN3"
+  },
+  {
+    "segmento": "comidas_bedidas_farmacia",
+    "ativo": "RADL3"
+  },
+  {
+    "segmento": "construtoras",
+    "ativo": "CURY3"
+  },
+  {
+    "segmento": "construtoras",
+    "ativo": "CYRE3"
+  },
+  {
+    "segmento": "construtoras",
+    "ativo": "DIRR3"
+  },
+  {
+    "segmento": "construtoras",
+    "ativo": "EVEN3"
+  },
+  {
+    "segmento": "construtoras",
+    "ativo": "EZTC3"
+  },
+  {
+    "segmento": "construtoras",
+    "ativo": "GFSA3"
+  },
+  {
+    "segmento": "construtoras",
+    "ativo": "MDNE3"
+  },
+  {
+    "segmento": "construtoras",
+    "ativo": "MRVE3"
+  },
+  {
+    "segmento": "construtoras",
+    "ativo": "MTRE3"
+  },
+  {
+    "segmento": "construtoras",
+    "ativo": "PLPL3"
+  },
+  {
+    "segmento": "construtoras",
+    "ativo": "RSID3"
+  },
+  {
+    "segmento": "construtoras",
+    "ativo": "TCSA3"
+  },
+  {
+    "segmento": "construtoras",
+    "ativo": "TEND3"
+  },
+  {
+    "segmento": "construtoras",
+    "ativo": "TRIS3"
+  },
+  {
+    "segmento": "construtoras",
+    "ativo": "VIVR3"
+  },
+  {
+    "segmento": "educacao",
+    "ativo": "ANIM3"
+  },
+  {
+    "segmento": "educacao",
+    "ativo": "COGN3"
+  },
+  {
+    "segmento": "educacao",
+    "ativo": "SEER3"
+  },
+  {
+    "segmento": "educacao",
+    "ativo": "YDUQ3"
+  },
+  {
+    "segmento": "energia",
+    "ativo": "AERI3"
+  },
+  {
+    "segmento": "energia",
+    "ativo": "ALUP11"
+  },
+  {
+    "segmento": "energia",
+    "ativo": "CESP6"
+  },
+  {
+    "segmento": "energia",
+    "ativo": "CMIG3"
+  },
+  {
+    "segmento": "energia",
+    "ativo": "CPFE3"
+  },
+  {
+    "segmento": "energia",
+    "ativo": "CPLE3"
+  },
+  {
+    "segmento": "energia",
+    "ativo": "EGIE3"
+  },
+  {
+    "segmento": "energia",
+    "ativo": "ELET3"
+  },
+  {
+    "segmento": "energia",
+    "ativo": "ENBR3"
+  },
+  {
+    "segmento": "energia",
+    "ativo": "ENEV3"
+  },
+  {
+    "segmento": "energia",
+    "ativo": "ENGI11"
+  },
+  {
+    "segmento": "energia",
+    "ativo": "EQPA3"
+  },
+  {
+    "segmento": "energia",
+    "ativo": "EQTL3"
+  },
+  {
+    "segmento": "energia",
+    "ativo": "LIGT3"
+  },
+  {
+    "segmento": "energia",
+    "ativo": "TAEE11"
+  },
+  {
+    "segmento": "energia",
+    "ativo": "TAEE4"
+  },
+  {
+    "segmento": "energia",
+    "ativo": "TIET11"
+  },
+  {
+    "segmento": "energia",
+    "ativo": "TRPL4"
+  },
+  {
+    "segmento": "energia_renovavel",
+    "ativo": "BSEV3"
+  },
+  {
+    "segmento": "energia_renovavel",
+    "ativo": "NEOE3"
+  },
+  {
+    "segmento": "energia_renovavel",
+    "ativo": "OMGE3"
+  },
+  {
+    "segmento": "energia_renovavel",
+    "ativo": "RNEW3"
+  },
+  {
+    "segmento": "incorporadora",
+    "ativo": "ALPK3"
+  },
+  {
+    "segmento": "incorporadora",
+    "ativo": "ALSO3"
+  },
+  {
+    "segmento": "incorporadora",
+    "ativo": "AVLL3"
+  },
+  {
+    "segmento": "incorporadora",
+    "ativo": "BRML3"
+  },
+  {
+    "segmento": "incorporadora",
+    "ativo": "BRPR3"
+  },
+  {
+    "segmento": "incorporadora",
+    "ativo": "CCPR3"
+  },
+  {
+    "segmento": "incorporadora",
+    "ativo": "HBOR3"
+  },
+  {
+    "segmento": "incorporadora",
+    "ativo": "IGTA3"
+  },
+  {
+    "segmento": "incorporadora",
+    "ativo": "JHSF3"
+  },
+  {
+    "segmento": "incorporadora",
+    "ativo": "LAVV3"
+  },
+  {
+    "segmento": "incorporadora",
+    "ativo": "MULT3"
+  },
+  {
+    "segmento": "incorporadora",
+    "ativo": "TCNO4"
+  },
+  {
+    "segmento": "indice",
+    "ativo": "BOVA11"
+  },
+  {
+    "segmento": "indice",
+    "ativo": "IBOV"
+  },
+  {
+    "segmento": "indice",
+    "ativo": "SMAL11"
+  },
+  {
+    "segmento": "indice",
+    "ativo": "MATB11"
+  },
+  {
+    "segmento": "indice",
+    "ativo": "IVVB11"
+  },
+  {
+    "segmento": "indice",
+    "ativo": "BRAX11"
+  },
+  {
+    "segmento": "indice",
+    "ativo": "BBSD11"
+  },
+  {
+    "segmento": "indice",
+    "ativo": "DIVO11"
+  },
+  {
+    "segmento": "indice",
+    "ativo": "PIBB11"
+  },
+  {
+    "segmento": "indice",
+    "ativo": "SPXI11"
+  },
+  {
+    "segmento": "industriais",
+    "ativo": "CRPG5"
+  },
+  {
+    "segmento": "industriais",
+    "ativo": "GPCP3"
+  },
+  {
+    "segmento": "industriais",
+    "ativo": "INTB3"
+  },
+  {
+    "segmento": "industriais",
+    "ativo": "KEPL3"
+  },
+  {
+    "segmento": "industriais",
+    "ativo": "MILS3"
+  },
+  {
+    "segmento": "industriais",
+    "ativo": "PRNR3"
+  },
+  {
+    "segmento": "industriais",
+    "ativo": "RCSL4"
+  },
+  {
+    "segmento": "industriais",
+    "ativo": "ROMI3"
+  },
+  {
+    "segmento": "industriais",
+    "ativo": "SNSY5"
+  },
+  {
+    "segmento": "industriais",
+    "ativo": "TASA4"
+  },
+  {
+    "segmento": "industriais",
+    "ativo": "WEGE3"
+  },
+  {
+    "segmento": "infra_logistica",
+    "ativo": "CCRO3"
+  },
+  {
+    "segmento": "infra_logistica",
+    "ativo": "ECOR3"
+  },
+  {
+    "segmento": "infra_logistica",
+    "ativo": "HBSA3"
+  },
+  {
+    "segmento": "infra_logistica",
+    "ativo": "LOGG3"
+  },
+  {
+    "segmento": "infra_logistica",
+    "ativo": "LOGN3"
+  },
+  {
+    "segmento": "infra_logistica",
+    "ativo": "RAIL3"
+  },
+  {
+    "segmento": "infra_logistica",
+    "ativo": "RLOG3"
+  },
+  {
+    "segmento": "infra_logistica",
+    "ativo": "SEQL3"
+  },
+  {
+    "segmento": "infra_logistica",
+    "ativo": "SIMH3"
+  },
+  {
+    "segmento": "infra_logistica",
+    "ativo": "STBP3"
+  },
+  {
+    "segmento": "infra_logistica",
+    "ativo": "TGMA3"
+  },
+  {
+    "segmento": "locadoras",
+    "ativo": "LCAM3"
+  },
+  {
+    "segmento": "locadoras",
+    "ativo": "MOVI3"
+  },
+  {
+    "segmento": "locadoras",
+    "ativo": "RENT3"
+  },
+  {
+    "segmento": "material_construcao",
+    "ativo": "ETER3"
+  },
+  {
+    "segmento": "material_construcao",
+    "ativo": "EUCA4"
+  },
+  {
+    "segmento": "material_construcao",
+    "ativo": "HAGA4"
+  },
+  {
+    "segmento": "material_construcao",
+    "ativo": "PTBL3"
+  },
+  {
+    "segmento": "material_construcao",
+    "ativo": "UCAS3"
+  },
+  {
+    "segmento": "mineracao_metais",
+    "ativo": "BRAP4"
+  },
+  {
+    "segmento": "mineracao_metais",
+    "ativo": "AURA33"
+  },
+  {
+    "segmento": "mineracao_metais",
+    "ativo": "CSNA3"
+  },
+  {
+    "segmento": "mineracao_metais",
+    "ativo": "FESA4"
+  },
+  {
+    "segmento": "mineracao_metais",
+    "ativo": "GGBR4"
+  },
+  {
+    "segmento": "mineracao_metais",
+    "ativo": "GOAU4"
+  },
+  {
+    "segmento": "mineracao_metais",
+    "ativo": "PMAM3"
+  },
+  {
+    "segmento": "mineracao_metais",
+    "ativo": "USIM5"
+  },
+  {
+    "segmento": "mineracao_metais",
+    "ativo": "VALE3"
+  },
+  {
+    "segmento": "oleo_gas",
+    "ativo": "BRDT3"
+  },
+  {
+    "segmento": "oleo_gas",
+    "ativo": "CSAN3"
+  },
+  {
+    "segmento": "oleo_gas",
+    "ativo": "ENAT3"
+  },
+  {
+    "segmento": "oleo_gas",
+    "ativo": "LUPA3"
+  },
+  {
+    "segmento": "oleo_gas",
+    "ativo": "PETR4"
+  },
+  {
+    "segmento": "oleo_gas",
+    "ativo": "PRIO3"
+  },
+  {
+    "segmento": "oleo_gas",
+    "ativo": "RRRP3"
+  },
+  {
+    "segmento": "oleo_gas",
+    "ativo": "UGPA3"
+  },
+  {
+    "segmento": "pecas_auto",
+    "ativo": "FRAS3"
+  },
+  {
+    "segmento": "pecas_auto",
+    "ativo": "LEVE3"
+  },
+  {
+    "segmento": "pecas_auto",
+    "ativo": "MYPK3"
+  },
+  {
+    "segmento": "pecas_auto",
+    "ativo": "POMO4"
+  },
+  {
+    "segmento": "pecas_auto",
+    "ativo": "RAPT4"
+  },
+  {
+    "segmento": "pecas_auto",
+    "ativo": "SHUL4"
+  },
+  {
+    "segmento": "pecas_auto",
+    "ativo": "TUPY3"
+  },
+  {
+    "segmento": "quimicos",
+    "ativo": "BRKM5"
+  },
+  {
+    "segmento": "quimicos",
+    "ativo": "FHER3"
+  },
+  {
+    "segmento": "quimicos",
+    "ativo": "UNIP6"
+  },
+  {
+    "segmento": "saneamento",
+    "ativo": "AMBP3"
+  },
+  {
+    "segmento": "saneamento",
+    "ativo": "CSMG3"
+  },
+  {
+    "segmento": "saneamento",
+    "ativo": "SAPR11"
+  },
+  {
+    "segmento": "saneamento",
+    "ativo": "SBSP3"
+  },
+  {
+    "segmento": "saude",
+    "ativo": "AALR3"
+  },
+  {
+    "segmento": "saude",
+    "ativo": "BIOM3"
+  },
+  {
+    "segmento": "saude",
+    "ativo": "DASA3"
+  },
+  {
+    "segmento": "saude",
+    "ativo": "FLRY3"
+  },
+  {
+    "segmento": "saude",
+    "ativo": "GNDI3"
+  },
+  {
+    "segmento": "saude",
+    "ativo": "HAPV3"
+  },
+  {
+    "segmento": "saude",
+    "ativo": "HYPE3"
+  },
+  {
+    "segmento": "saude",
+    "ativo": "ODPV3"
+  },
+  {
+    "segmento": "saude",
+    "ativo": "PARD3"
+  },
+  {
+    "segmento": "saude",
+    "ativo": "PFRM3"
+  },
+  {
+    "segmento": "saude",
+    "ativo": "PNVL3"
+  },
+  {
+    "segmento": "saude",
+    "ativo": "RDOR3"
+  },
+  {
+    "segmento": "seguro",
+    "ativo": "BBSE3"
+  },
+  {
+    "segmento": "seguro",
+    "ativo": "IRBR3"
+  },
+  {
+    "segmento": "seguro",
+    "ativo": "PSSA3"
+  },
+  {
+    "segmento": "seguro",
+    "ativo": "QUAL3"
+  },
+  {
+    "segmento": "seguro",
+    "ativo": "SULA11"
+  },
+  {
+    "segmento": "seguro",
+    "ativo": "WIZS3"
+  },
+  {
+    "segmento": "servicos_financeiro",
+    "ativo": "ATOM3"
+  },
+  {
+    "segmento": "servicos_financeiro",
+    "ativo": "B3SA3"
+  },
+  {
+    "segmento": "servicos_financeiro",
+    "ativo": "BOAS3"
+  },
+  {
+    "segmento": "servicos_financeiro",
+    "ativo": "CIEL3"
+  },
+  {
+    "segmento": "servicos_financeiro",
+    "ativo": "ITSA4"
+  },
+  {
+    "segmento": "tech",
+    "ativo": "CARD3"
+  },
+  {
+    "segmento": "tech",
+    "ativo": "LINX3"
+  },
+  {
+    "segmento": "tech",
+    "ativo": "BMOB3"
+  },
+  {
+    "segmento": "tech",
+    "ativo": "LWSA3"
+  },
+  {
+    "segmento": "tech",
+    "ativo": "MBLY3"
+  },
+  {
+    "segmento": "tech",
+    "ativo": "MOSI3"
+  },
+  {
+    "segmento": "tech",
+    "ativo": "NGRD3"
+  },
+  {
+    "segmento": "tech",
+    "ativo": "POSI3"
+  },
+  {
+    "segmento": "tech",
+    "ativo": "SQIA3"
+  },
+  {
+    "segmento": "tech",
+    "ativo": "TOTS3"
+  },
+  {
+    "segmento": "tech",
+    "ativo": "VLID3"
+  },
+  {
+    "segmento": "telecom",
+    "ativo": "OIBR3"
+  },
+  {
+    "segmento": "telecom",
+    "ativo": "TIMS3"
+  },
+  {
+    "segmento": "telecom",
+    "ativo": "VIVT3"
+  },
+  {
+    "segmento": "varejo",
+    "ativo": "BTOW3"
+  },
+  {
+    "segmento": "varejo",
+    "ativo": "GMAT3"
+  },
+  {
+    "segmento": "varejo",
+    "ativo": "LAME3"
+  },
+  {
+    "segmento": "varejo",
+    "ativo": "LJQQ3"
+  },
+  {
+    "segmento": "varejo",
+    "ativo": "MGLU3"
+  },
+  {
+    "segmento": "varejo",
+    "ativo": "PCAR3"
+  },
+  {
+    "segmento": "varejo",
+    "ativo": "SOMA3"
+  },
+  {
+    "segmento": "varejo",
+    "ativo": "VVAR3"
+  },
+  {
+    "segmento": "varejo_especializado",
+    "ativo": "CASH3"
+  },
+  {
+    "segmento": "varejo_especializado",
+    "ativo": "ENJU3"
+  },
+  {
+    "segmento": "varejo_especializado",
+    "ativo": "NTCO3"
+  },
+  {
+    "segmento": "varejo_especializado",
+    "ativo": "PETZ3"
+  },
+  {
+    "segmento": "varejo_especializado",
+    "ativo": "SGPS3"
+  },
+  {
+    "segmento": "varejo_especializado",
+    "ativo": "SLED3"
+  },
+  {
+    "segmento": "varejo_especializado",
+    "ativo": "TECN3"
+  },
+  {
+    "segmento": "varejo_especializado",
+    "ativo": "VIVA3"
+  },
+  {
+    "segmento": "vestuario",
+    "ativo": "ALPA4"
+  },
+  {
+    "segmento": "vestuario",
+    "ativo": "AMAR3"
+  },
+  {
+    "segmento": "vestuario",
+    "ativo": "ARZZ3"
+  },
+  {
+    "segmento": "vestuario",
+    "ativo": "CEAB3"
+  },
+  {
+    "segmento": "vestuario",
+    "ativo": "CNTO3"
+  },
+  {
+    "segmento": "vestuario",
+    "ativo": "GRND3"
+  },
+  {
+    "segmento": "vestuario",
+    "ativo": "GUAR3"
+  },
+  {
+    "segmento": "vestuario",
+    "ativo": "HGTX3"
+  },
+  {
+    "segmento": "vestuario",
+    "ativo": "LLIS3"
+  },
+  {
+    "segmento": "vestuario",
+    "ativo": "LREN3"
+  },
+  {
+    "segmento": "vestuario",
+    "ativo": "VULC3"
+  }
+]
